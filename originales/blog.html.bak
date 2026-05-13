@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Blog - JT Imports</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Blog de Autopartes, performance, 4x4, autos clasicos" name="keywords">
+    <meta content="Artículos, noticias y consejos sobre el mundo de las autopartes de alto desempeño." name="description">
+
+    <link href="img/icon.png" rel="icon">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link href="css/style.css?v=1.51" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container-fluid bg-dark">
+        <div class="row py-2 px-lg-5">
+            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
+                <div class="d-inline-flex align-items-center text-white">
+                    <small><i class="fa fa-phone-alt mr-2"></i>+52 81 2918 5691</small>
+                    <small class="px-3">|</small>
+                    <a href="mailto:ventas@jtimports.com.mx" class="text-white">
+                        <small><i class="fa fa-envelope mr-2"></i>ventas</small>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center text-lg-right">
+                <div class="d-inline-flex align-items-center">
+                    <a class="text-white px-2" href="https://www.facebook.com/jtimportsMX" target="_blank" rel="noopener noreferrer" aria-label="Facebook de  JT Imports">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="text-white px-2" href="https://www.tiktok.com/@jt.imports.mx" target="_blank" rel="noopener noreferrer" aria-label="TikTok de JT Imports">
+                        <i class="fab fa-tiktok"></i>
+                    </a>
+                    <a class="text-white px-2" href="https://www.instagram.com/jt.imports.mx/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de JT Imports">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid p-0">
+        <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+            <a href="index.html" class="navbar-brand ml-lg-3">
+                <h1 class="m-0 display-5 text-uppercase text-primary"><img src="img/logo.webp" alt="JT Imports" class="jtimports-logo"></i>IMPORTS</h1>
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-label="Abrir menú de navegación">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
+                <div class="navbar-nav m-auto py-0">
+                    <a href="index.html" class="nav-item nav-link">Inicio</a>
+                    <a href="about.html" class="nav-item nav-link">Nosotros</a>
+                    <a href="service.html" class="nav-item nav-link">Servicio</a>
+                    <a href="blog.html" class="nav-item nav-link active">Blog</a>
+                    <a href="contact.html" class="nav-item nav-link">Contacto</a>
+                </div>
+                <a href="contact.html" class="btn btn-primary py-2 px-4 d-none d-lg-block">Cotizar</a>
+            </div>
+        </nav>
+    </div>
+    <div class="jumbotron jumbotron-fluid jumbotron-blog-hero mb-5">
+        <div class="container text-center py-5">
+            <h1 class="display-3 text-uppercase text-white mb-3" data-aos="fade-down">Nuestro Blog</h1>
+            <p class="lead text-white mb-4" data-aos="fade-up" data-aos-delay="100">
+                Noticias, consejos y todo sobre el mundo del performance automotriz.
+            </p>
+            <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
+                <ol class="breadcrumb justify-content-center bg-transparent p-0">
+                    <li class="breadcrumb-item"><a href="index.html" class="text-white">Inicio</a></li>
+                    <li class="breadcrumb-item active text-white" aria-current="page">Blog</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="container-fluid py-5">
+        <div class="container">
+            <div class="text-center pb-2">
+                <h6 class="text-primary text-uppercase font-weight-bold">Artículos</h6>
+                <h1 class="mb-4">Últimas Publicaciones</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-5" data-aos="fade-up">
+                    <div class="position-relative">
+                        <img class="img-fluid w-100" src="img/blog-1.webp" alt="Aranceles 2025">
+                        <div class="position-absolute bg-primary d-flex flex-column align-items-center justify-content-center rounded-circle"
+                            style="width: 60px; height: 60px; bottom: -30px; right: 30px;">
+                            <h4 class="font-weight-bold mb-n1">13</h4>
+                            <small class="text-white text-uppercase">Jun</small>
+                        </div>
+                    </div>
+                    <div class="bg-secondary" style="padding: 30px;">
+                        <div class="d-flex mb-3">
+                            <div class="d-flex align-items-center">
+                                <img class="rounded-circle" style="width: 40px; height: 40px;" src="img/logo.webp" alt="Jt Imports CEO">
+                                <a class="text-muted ml-2" href="#">jtimportsMX</a>
+                            </div>
+                            <div class="d-flex align-items-center ml-4">
+                                <i class="far fa-bookmark text-primary"></i>
+                                <a class="text-muted ml-2" href="#">Aduanas</a>
+                            </div>
+                        </div>
+                        <h4 class="font-weight-bold mb-3">Aranceles 2025 para Autopartes</h4>
+                        <p>En este 2025 comenzamos con cambios en los impuestos y las politicas de importacion en muchos productos, incluyendo autopartes. Estos cambios afectaran los costos y la disponibilidad de productos en el mercado.</p>
+                        <a class="border-bottom border-primary text-uppercase text-decoration-none" href="blog-aranceles-2025.html">Leer más <i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 mb-5" data-aos="fade-up" data-aos-delay="100">
+                    <div class="position-relative">
+                        <img class="img-fluid w-100" src="img/chips.webp" alt="Calidad de chips en luces LED">
+                        <div class="position-absolute bg-primary d-flex flex-column align-items-center justify-content-center rounded-circle"
+                            style="width: 60px; height: 60px; bottom: -30px; right: 30px;">
+                            <h4 class="font-weight-bold mb-n1">28</h4>
+                            <small class="text-white text-uppercase">Jun</small>
+                        </div>
+                    </div>
+                    <div class="bg-secondary" style="padding: 30px;">
+                        <div class="d-flex mb-3">
+                            <div class="d-flex align-items-center">
+                                <img class="rounded-circle" style="width: 40px; height: 40px;" src="img/logo.webp" alt="Jt Imports CEO">
+                                <a class="text-muted ml-2" href="#">jtimportsMX</a>
+                            </div>
+                            <div class="d-flex align-items-center ml-4">
+                                <i class="far fa-bookmark text-primary"></i>
+                                <a class="text-muted ml-2" href="#">Accesorios</a>
+                            </div>
+                        </div>
+                        <h4 class="font-weight-bold mb-3">Calidad de chips en luces LED</h4>
+                        <p>Cuando uno compra un set de luces nuevas para su vehiculo, es importante verificar la calidad de los chips LED utilizados. Los chips de alta calidad ofrecen mejor luminosidad y durabilidad.</p>
+                        <a class="border-bottom border-primary text-uppercase text-decoration-none" href="blog-calidad-chips-led.html">Leer más <i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-md-6 mb-5" data-aos="fade-up" data-aos-delay="200">
+                    <div class="position-relative">
+                        <img class="img-fluid w-100" src="img/frenos.webp" alt="Frenos de alto desempeño">
+                        <div class="position-absolute bg-primary d-flex flex-column align-items-center justify-content-center rounded-circle"
+                            style="width: 60px; height: 60px; bottom: -30px; right: 30px;">
+                            <h4 class="font-weight-bold mb-n1">05</h4>
+                            <small class="text-white text-uppercase">Jul</small>
+                        </div>
+                    </div>
+                    <div class="bg-secondary" style="padding: 30px;">
+                        <div class="d-flex mb-3">
+                            <div class="d-flex align-items-center">
+                                <img class="rounded-circle" style="width: 40px; height: 40px;" src="img/logo.webp" alt="Jt Imports CEO">
+                                <a class="text-muted ml-2" href="#">jtimportsMX</a>
+                            </div>
+                            <div class="d-flex align-items-center ml-4">
+                                <i class="far fa-bookmark text-primary"></i>
+                                <a class="text-muted ml-2" href="#">Performance</a>
+                            </div>
+                        </div>
+                        <h4 class="font-weight-bold mb-3">Frenos de alto desempeño: ¿Valen la pena?</h4>
+                        <p>Más potencia requiere más control. Analizamos la importancia de un buen sistema de frenos, desde discos ventilados hasta balatas de cerámica, para garantizar la seguridad y el rendimiento de tu auto.</p>
+                        <a class="border-bottom border-primary text-uppercase text-decoration-none" href="blog-frenos-desempeno.html">Leer más <i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
+    <div class="row pt-5">
+        <div class="col-lg-7 col-md-6">
+            <div class="row">
+                <div class="col-md-6 mb-5">
+                    <h3 class="text-primary mb-4">Visítanos</h3>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>San Nicolas de los Garza, N.L. México</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i>+52 81 2918 5691</p>
+                    <p><a href="mailto:ventas@jtimports.com.mx" class="text-white">
+                    <i class="fa fa-envelope mr-2"></i>ventas
+                </a></p>
+                    <div class="d-flex justify-content-start mt-4">
+                        <a class="btn btn-outline-light btn-social mr-2" href="https://facebook.com/jtimportsMX"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mr-2" href="https://www.tiktok.com/@jt.imports.mx"><i class="fab fa-tiktok"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://instagram.com/jt.imports.mx"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-5">
+                    <h3 class="text-primary mb-4">Atajos</h3>
+                    <div class="d-flex flex-column justify-content-start">
+                        <a class="text-white mb-2" href="index.html"><i class="fa fa-angle-right mr-2"></i>Inicio</a>
+                        <a class="text-white mb-2" href="blog.html"><i class="fa fa-angle-right mr-2"></i>Blog</a>
+                        <a class="text-white mb-2" href="politicas.html#privacidad"><i class="fa fa-angle-right mr-2"></i>Política de Privacidad</a>
+                        <a class="text-white mb-2" href="politicas.html#cookies"><i class="fa fa-angle-right mr-2"></i>Política de Cookies</a>
+                        <a class="text-white" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-5 col-md-6 mb-5">
+            <h3 class="text-primary mb-4">Newsletter</h3>
+            <p>Enterate primero de nuestras ofertas y promociones. Tambien noticias importantes.</p>
+            
+            <form id="newsletterForm">
+                <div class="w-100">
+                    <div class="input-group">
+                        <input type="email" id="newsletterEmail" class="form-control border-light" style="padding: 30px;" placeholder="Tu correo electrónico" required>
+                        <div class="input-group-append">
+                            <button class="btn btn-primary px-4" type="submit" id="newsletterSubmitButton">Suscribirse</button>
+                        </div>
+                    </div>
+                    <div id="newsletterSuccess" class="mt-2"></div>
+                </div>
+            </form>
+            </div>
+    </div>
+</div>
+<div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
+    <div class="row">
+        <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
+            <p class="m-0 text-white">&copy; <a href="#">JT Imports</a>. Derechos Reservados.
+            <a href="https://tecnomata.com">Tecnómata</a>
+            </p>
+        </div>
+        <div class="col-lg-6 text-center text-md-right">
+            <ul class="nav d-inline-flex">
+                <li class="nav-item">
+                    <a class="nav-link text-white py-0" href="ayuda.html#faqs">FAQs</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white py-0" href="ayuda.html#ayuda">Ayuda</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src="lib/easing/easing.min.js"></script>
+<script src="lib/waypoints/waypoints.min.js"></script>
+<script src="lib/counterup/counterup.min.js"></script>
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+<script src="mail/jqBootstrapValidation.min.js"></script>
+<script src="mail/contact.js"></script>
+<script src="mail/newsletter.js"></script>
+
+<script src="js/main.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 800,
+        once: true
+    });
+</script>
+</body>
+
+</html>

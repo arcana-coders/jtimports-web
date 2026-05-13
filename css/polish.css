@@ -1,0 +1,65 @@
+/* JT Imports Polish - Industrial Warning Theme */
+:root {
+    /* OKLCH Neutrals */
+    --neutral-50: oklch(0.98 0.01 240);
+    --neutral-100: oklch(0.95 0.01 240);
+    --neutral-800: oklch(0.25 0.02 240);
+    --neutral-900: oklch(0.15 0.02 240);
+    
+    /* Brand OKLCH */
+    --brand-primary: oklch(0.65 0.25 35); /* Intense Orange */
+    --brand-warning: oklch(0.85 0.2 85);  /* Safety Yellow */
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--neutral-800);
+    background-color: var(--neutral-50);
+}
+
+h1, h2, h3, .font-weight-bold {
+    letter-spacing: -0.02em;
+    color: var(--neutral-900);
+}
+
+/* Industrial Headers */
+.text-primary {
+    color: var(--brand-primary) !important;
+}
+
+.bg-primary {
+    background-color: var(--brand-primary) !important;
+}
+
+/* Card Improvements */
+.bg-secondary {
+    background-color: var(--neutral-100) !important;
+    border: 1px solid oklch(0 0 0 / 0.05);
+}
+
+/* Custom Polish */
+.navbar-brand h1 {
+    font-weight: 900 !important;
+}
+
+.btn-primary {
+    background-color: var(--brand-primary);
+    border-color: var(--brand-primary);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 12px 30px;
+}
+
+.btn-primary:hover {
+    background-color: oklch(0.55 0.25 35);
+}
+
+/* Blog specific polish */
+.blog-card {
+    transition: transform 0.3s ease-out;
+}
+
+.blog-card:hover {
+    transform: translateY(-5px);
+}

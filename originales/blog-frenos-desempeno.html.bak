@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Frenos de Alto Desempeño: ¿Valen la Pena? - JT Imports</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="frenos de alto desempeño, big brake kit, discos perforados, calipers multipistón, balatas de cerámica" name="keywords">
+    <meta content="Analizamos si vale la pena invertir en un kit de frenos de alto desempeño: discos, calipers, balatas y más, para mejorar la seguridad y el rendimiento." name="description">
+
+    <link href="img/icon.png" rel="icon">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link href="css/style.css?v=1.51" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container-fluid bg-dark">
+        <div class="row py-2 px-lg-5">
+            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
+                <div class="d-inline-flex align-items-center text-white">
+                    <small><i class="fa fa-phone-alt mr-2"></i>+52 81 2918 5691</small>
+                    <small class="px-3">|</small>
+                    <a href="mailto:ventas@jtimports.com.mx" class="text-white">
+                        <small><i class="fa fa-envelope mr-2"></i>ventas</small>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center text-lg-right">
+                <div class="d-inline-flex align-items-center">
+                    <a class="text-white px-2" href="https://www.facebook.com/jtimportsMX" target="_blank" rel="noopener noreferrer" aria-label="Facebook de  JT Imports">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="text-white px-2" href="https://www.tiktok.com/@jt.imports.mx" target="_blank" rel="noopener noreferrer" aria-label="TikTok de JT Imports">
+                        <i class="fab fa-tiktok"></i>
+                    </a>
+                    <a class="text-white px-2" href="https://www.instagram.com/jt.imports.mx/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de JT Imports">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid p-0">
+        <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+            <a href="index.html" class="navbar-brand ml-lg-3">
+                <h1 class="m-0 display-5 text-uppercase text-primary"><img src="img/logo.webp" alt="JT Imports" class="jtimports-logo"></i>IMPORTS</h1>
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-label="Abrir menú de navegación">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
+                <div class="navbar-nav m-auto py-0">
+                    <a href="index.html" class="nav-item nav-link">Inicio</a>
+                    <a href="about.html" class="nav-item nav-link">Nosotros</a>
+                    <a href="service.html" class="nav-item nav-link">Servicio</a>
+                    
+                    <div class="nav-item dropdown">
+                        <a href="blog.html" class="nav-link dropdown-toggle active" data-toggle="dropdown">Blog</a>
+                        <div class="dropdown-menu rounded-0 m-0">
+                            <a href="blog-aranceles-2025.html" class="dropdown-item">Aranceles 2025</a>
+                            <a href="blog-calidad-chips-led.html" class="dropdown-item">Calidad de Chips LED</a>
+                            <a href="blog-frenos-desempeno.html" class="dropdown-item active">Frenos de Desempeño</a>
+                        </div>
+                    </div>
+                    <a href="contact.html" class="nav-item nav-link">Contacto</a>
+                </div>
+                <a href="contact.html" class="btn btn-primary py-2 px-4 d-none d-lg-block">Cotizar</a>
+            </div>
+        </nav>
+    </div>
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <div class="mb-5 text-center" data-aos="fade-down">
+                    <h6 class="text-primary text-uppercase font-weight-bold">Performance y Seguridad</h6>
+                    <h1 class="display-4 font-weight-bold">Frenos de Alto Desempeño: ¿Realmente Valen la Pena?</h1>
+                    <div class="d-flex justify-content-center my-3">
+                        <div class="d-flex align-items-center">
+                            <img class="rounded-circle" style="width: 40px; height: 40px;" src="img/logo.webp" alt="JT Imports">
+                            <span class="text-muted ml-2">Por JT Imports</span>
+                        </div>
+                        <div class="d-flex align-items-center ml-4">
+                            <i class="far fa-calendar-alt text-primary"></i>
+                            <span class="text-muted ml-2">Agosto 2025</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-5" data-aos="fade-up">
+                    <img class="img-fluid w-100 rounded" src="img/frenos.webp" alt="Freno de disco perforado con caliper de alto desempeño">
+                </div>
+
+                <div data-aos="fade-up">
+                    <p class="lead">Nos encanta añadir caballos de fuerza, mejorar la suspensión y hacer que nuestros autos se vean increíbles. Pero a menudo, la parte más crucial del desempeño se pasa por alto: la capacidad de detenerse. Invertir en un "Big Brake Kit" no es solo una mejora estética; es una de las actualizaciones de seguridad y rendimiento más inteligentes que puedes hacer.</p>
+
+                    <h3 class="font-weight-bold mt-5 mb-3">El Enemigo a Vencer: La Fatiga de Frenos (Brake Fade)</h3>
+                    <p>¿Alguna vez has sentido que el pedal del freno se vuelve "esponjoso" o que el auto simplemente no se detiene con la misma fuerza después de varias frenadas intensas? Eso es la <strong>fatiga de frenos</strong>. Ocurre cuando el calor extremo generado por la fricción sobrepasa la capacidad del sistema para disiparlo. Este calor puede hervir el líquido de frenos o "cristalizar" la superficie de las balatas, provocando una pérdida peligrosa de potencia de frenado.</p>
+                    <p>El objetivo principal de los frenos de alto desempeño es combatir este calor de manera mucho más eficiente que los frenos de fábrica.</p>
+
+                    <h3 class="font-weight-bold mt-5 mb-3">La Anatomía de una Frenada Superior</h3>
+                    <p>Un sistema de frenos de alto rendimiento es más que solo calipers pintados de rojo. Cada componente está diseñado para trabajar en conjunto y manejar el estrés térmico.</p>
+                    <ul>
+                        <li><strong>Discos Ranurados y/o Perforados:</strong> Los discos de fábrica son lisos. Los discos de alto desempeño incorporan ranuras y/o perforaciones. Las <strong>ranuras</strong> actúan como un cepillo, limpiando la superficie de la balata para evitar la cristalización. Las <strong>perforaciones</strong> ayudan a ventilar los gases calientes y a reducir el peso. Juntos, disipan el calor de forma radicalmente más efectiva.</li>
+                        <li><strong>Calipers de Múltiples Pistones:</strong> Tu auto probablemente tiene un caliper "flotante" con uno o dos pistones. Un caliper de 4 o 6 pistones aplica la presión de manera mucho más uniforme sobre toda la superficie de la balata. Esto no solo mejora la potencia de frenado, sino también el tacto del pedal y reduce el desgaste irregular.</li>
+                        <li><strong>Balatas de Compuestos Avanzados:</strong> Las balatas de fábrica (generalmente orgánicas) son silenciosas pero no soportan altas temperaturas. Las <strong>balatas de cerámica</strong> son un excelente primer paso, ofreciendo más resistencia al calor con poco ruido y polvo. Para un uso más agresivo, las <strong>semimetálicas</strong> ofrecen una mordida inicial increíble y una resistencia al calor superior, aunque pueden ser más ruidosas.</li>
+                        <li><strong>Líneas de Freno de Acero Inoxidable:</strong> Las líneas de hule de fábrica pueden expandirse bajo la presión de una frenada fuerte. Las líneas recubiertas de acero inoxidable no se flexionan, lo que se traduce en una respuesta del pedal instantánea y consistente.</li>
+                    </ul>
+                    
+                    <blockquote class="blockquote bg-secondary p-4 rounded my-4">
+                        <p class="mb-0 font-italic">"Más potencia sin mejores frenos es una receta para el desastre. La confianza al frenar te permite aprovechar el verdadero potencial de tu motor."</p>
+                    </blockquote>
+
+                    <h3 class="font-weight-bold mt-5 mb-3">Conclusión: Una Inversión en Control y Confianza</h3>
+                    <p>Entonces, ¿valen la pena? La respuesta es un rotundo sí, especialmente si has modificado tu motor o disfrutas de un manejo deportivo. No se trata solo de poder frenar más tarde en una curva de circuito; se trata de la tranquilidad de saber que tienes la capacidad de detenerte de forma segura y consistente, una y otra vez.</p>
+                    <p>Desde un simple cambio a balatas de cerámica y líneas de acero, hasta un kit completo con discos y calipers de 6 pistones, mejorar tus frenos es la base de un proyecto de performance bien ejecutado.</p>
+                    <p>En <strong>JT Imports</strong>, vivimos la pasión por el rendimiento. Te asesoramos para encontrar el sistema de frenos que se ajuste a tu auto, tu estilo de manejo y tu presupuesto. ¡Contáctanos y frena con total confianza!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
+    <div class="row pt-5">
+        <div class="col-lg-7 col-md-6">
+            <div class="row">
+                <div class="col-md-6 mb-5">
+                    <h3 class="text-primary mb-4">Visítanos</h3>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>San Nicolas de los Garza, N.L. México</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i>+52 81 2918 5691</p>
+                    <p><a href="mailto:ventas@jtimports.com.mx" class="text-white">
+                    <i class="fa fa-envelope mr-2"></i>ventas
+                </a></p>
+                    <div class="d-flex justify-content-start mt-4">
+                        <a class="btn btn-outline-light btn-social mr-2" href="https://facebook.com/jtimportsMX"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mr-2" href="https://www.tiktok.com/@jt.imports.mx"><i class="fab fa-tiktok"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://instagram.com/jt.imports.mx"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-5">
+                    <h3 class="text-primary mb-4">Atajos</h3>
+                    <div class="d-flex flex-column justify-content-start">
+                        <a class="text-white mb-2" href="index.html"><i class="fa fa-angle-right mr-2"></i>Inicio</a>
+                        <a class="text-white mb-2" href="blog.html"><i class="fa fa-angle-right mr-2"></i>Blog</a>
+                        <a class="text-white mb-2" href="politicas.html#privacidad"><i class="fa fa-angle-right mr-2"></i>Política de Privacidad</a>
+                        <a class="text-white mb-2" href="politicas.html#cookies"><i class="fa fa-angle-right mr-2"></i>Política de Cookies</a>
+                        <a class="text-white" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-5 col-md-6 mb-5">
+            <h3 class="text-primary mb-4">Newsletter</h3>
+            <p>Enterate primero de nuestras ofertas y promociones. Tambien noticias importantes.</p>
+            
+            <form id="newsletterForm">
+                <div class="w-100">
+                    <div class="input-group">
+                        <input type="email" id="newsletterEmail" class="form-control border-light" style="padding: 30px;" placeholder="Tu correo electrónico" required>
+                        <div class="input-group-append">
+                            <button class="btn btn-primary px-4" type="submit" id="newsletterSubmitButton">Suscribirse</button>
+                        </div>
+                    </div>
+                    <div id="newsletterSuccess" class="mt-2"></div>
+                </div>
+            </form>
+            </div>
+    </div>
+</div>
+<div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
+    <div class="row">
+        <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
+            <p class="m-0 text-white">&copy; <a href="#">JT Imports</a>. Derechos Reservados.
+            <a href="https://tecnomata.com">Tecnómata</a>
+            </p>
+        </div>
+        <div class="col-lg-6 text-center text-md-right">
+            <ul class="nav d-inline-flex">
+                <li class="nav-item">
+                    <a class="nav-link text-white py-0" href="ayuda.html#faqs">FAQs</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white py-0" href="ayuda.html#ayuda">Ayuda</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src="lib/easing/easing.min.js"></script>
+<script src="lib/waypoints/waypoints.min.js"></script>
+<script src="lib/counterup/counterup.min.js"></script>
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+<script src="mail/jqBootstrapValidation.min.js"></script>
+<script src="mail/contact.js"></script>
+<script src="mail/newsletter.js"></script>
+
+<script src="js/main.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 800,
+        once: true
+    });
+</script>
+</body>
+
+</html>

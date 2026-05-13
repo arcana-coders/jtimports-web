@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Preguntas Frecuentes y Ayuda - JT Imports</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="preguntas frecuentes, ayuda, cotización, tiempo de entrega, métodos de pago" name="keywords">
+    <meta content="Encuentra respuestas a las preguntas más comunes sobre nuestros servicios de importación de autopartes y cómo podemos ayudarte." name="description">
+
+    <link href="img/icon.png" rel="icon">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link href="css/style.css?v=1.51" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container-fluid bg-dark">
+        <div class="row py-2 px-lg-5">
+            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
+                <div class="d-inline-flex align-items-center text-white">
+                    <small><i class="fa fa-phone-alt mr-2"></i>+52 81 2918 5691</small>
+                    <small class="px-3">|</small>
+                    <a href="mailto:ventas@jtimports.com.mx" class="text-white">
+                        <small><i class="fa fa-envelope mr-2"></i>ventas</small>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center text-lg-right">
+                <div class="d-inline-flex align-items-center">
+                    <a class="text-white px-2" href="https://www.facebook.com/jtimportsMX" target="_blank" rel="noopener noreferrer" aria-label="Facebook de  JT Imports">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="text-white px-2" href="https://www.tiktok.com/@jt.imports.mx" target="_blank" rel="noopener noreferrer" aria-label="TikTok de JT Imports">
+                        <i class="fab fa-tiktok"></i>
+                    </a>
+                    <a class="text-white px-2" href="https://www.instagram.com/jt.imports.mx/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de JT Imports">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid p-0">
+        <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+            <a href="index.html" class="navbar-brand ml-lg-3">
+                <h1 class="m-0 display-5 text-uppercase text-primary"><img src="img/logo.webp" alt="JT Imports" class="jtimports-logo"></i>IMPORTS</h1>
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-label="Abrir menú de navegación">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
+                <div class="navbar-nav m-auto py-0">
+                    <a href="index.html" class="nav-item nav-link">Inicio</a>
+                    <a href="about.html" class="nav-item nav-link">Nosotros</a>
+                    <a href="service.html" class="nav-item nav-link">Servicio</a>
+                    <div class="nav-item dropdown">
+                        <a href="blog.html" class="nav-link dropdown-toggle" data-toggle="dropdown">Blog</a>
+                        <div class="dropdown-menu rounded-0 m-0">
+                            <a href="blog-aranceles-2025.html" class="dropdown-item">Aranceles 2025</a>
+                            <a href="blog-calidad-chips-led.html" class="dropdown-item">Calidad de Chips LED</a>
+                            <a href="blog-frenos-desempeno.html" class="dropdown-item">Frenos de Desempeño</a>
+                        </div>
+                    </div>
+                    <a href="contact.html" class="nav-item nav-link">Contacto</a>
+                </div>
+                <a href="contact.html" class="btn btn-primary py-2 px-4 d-none d-lg-block">Cotizar</a>
+            </div>
+        </nav>
+    </div>
+    <div class="jumbotron jumbotron-fluid jumbotron-help-hero mb-5">
+        <div class="container text-center py-5">
+            <h1 class="display-3 text-uppercase text-white mb-3" data-aos="fade-down">Centro de Ayuda</h1>
+            <p class="lead text-white mb-4" data-aos="fade-up" data-aos-delay="100">
+                Resolvemos tus dudas para que tu experiencia sea la mejor.
+            </p>
+            <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
+                <ol class="breadcrumb justify-content-center bg-transparent p-0">
+                    <li class="breadcrumb-item"><a href="index.html" class="text-white">Inicio</a></li>
+                    <li class="breadcrumb-item active text-white" aria-current="page">FAQs y Ayuda</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1" data-aos="fade-up">
+                
+                <div class="text-center">
+                    <h2 id="faqs" class="display-4 font-weight-bold">Preguntas Frecuentes</h2>
+                    <p class="mb-5">Respuestas rápidas a las dudas más comunes de nuestros clientes.</p>
+                </div>
+                
+                <div class="accordion" id="faqAccordion">
+                    <div class="card">
+                        <div class="card-header" id="headingOne">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    ¿Cómo funciona el proceso para cotizar y comprar una pieza?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#faqAccordion">
+                            <div class="card-body">
+                                ¡Es muy fácil! <strong>1.</strong> Llenas el formulario de contacto o cotización con los detalles de la pieza que necesitas. <strong>2.</strong> Nuestro equipo investiga y te envía una cotización detallada con el precio final. <strong>3.</strong> Si la apruebas, realizas el pago. <strong>4.</strong> Nosotros nos encargamos de todo el proceso de importación y te enviamos la pieza hasta tu domicilio.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingTwo">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    ¿Qué incluye el precio de la cotización?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#faqAccordion">
+                            <div class="card-body">
+                                Nuestras cotizaciones son 100% transparentes. El precio que te damos es el precio final, e incluye: el costo de la pieza, el envío dentro de EE.UU., los impuestos y aranceles de importación, nuestros honorarios y el envío final hasta tu domicilio en México. <strong>Sin costos ocultos ni sorpresas.</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingThree">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    ¿Cuánto tiempo tarda en llegar mi pedido?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#faqAccordion">
+                            <div class="card-body">
+                                El tiempo de entrega promedio es de <strong>7 a 15 días hábiles</strong> una vez que se ha procesado el pago. Este tiempo puede variar ligeramente dependiendo de la ubicación del proveedor en EE.UU. y los procesos en la aduana, pero siempre te mantendremos informado sobre el estado de tu pedido.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header" id="headingFour">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    ¿Qué métodos de pago aceptan?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#faqAccordion">
+                            <div class="card-body">
+                                Aceptamos transferencias bancarias (SPEI), depósitos en efectivo en tiendas de conveniencia y pagos con tarjeta de crédito o débito a través de un enlace de pago seguro que te proporcionaremos.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingFive">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    ¿Las piezas que importan tienen garantía?
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#faqAccordion">
+                            <div class="card-body">
+                                Sí. Todas las piezas nuevas cuentan con la garantía original del fabricante. Nosotros actuamos como intermediarios para facilitar cualquier proceso de reclamación con el proveedor en EE.UU. Es importante mencionar que la garantía generalmente cubre defectos de fabricación y no cubre costos de instalación o envío.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <hr class="my-5">
+
+                <div id="ayuda" class="text-center mt-5">
+                    <h2 class="display-4 font-weight-bold">¿Aún Necesitas Ayuda?</h2>
+                    <p class="mb-5">Si no encontraste la respuesta a tu duda, contáctanos. Estamos para servirte.</p>
+                    <div class="row">
+                        <div class="col-md-6" data-aos="fade-right">
+                            <div class="bg-secondary p-4 rounded h-100 d-flex flex-column">
+                                <h3 class="font-weight-bold"><i class="fa fa-file-invoice text-primary mr-2"></i>Cotizaciones y Pedidos</h3>
+                                <p class="flex-grow-1">Para solicitar la cotización de una o más piezas, la forma más eficiente es a través de nuestro formulario detallado.</p>
+                                <a href="contact.html" class="btn btn-primary mt-auto">Ir al Formulario</a>
+                            </div>
+                        </div>
+                        <div class="col-md-6" data-aos="fade-left">
+                            <div class="bg-secondary p-4 rounded h-100 d-flex flex-column">
+                                <h3 class="font-weight-bold"><i class="fab fa-whatsapp text-primary mr-2"></i>Asesoría Personalizada</h3>
+                                <p class="flex-grow-1">Si tienes dudas sobre qué pieza es la mejor para tu proyecto o necesitas una respuesta más inmediata, envíanos un WhatsApp.</p>
+                                <a href="https://wa.me/528129185691?text=Hola%20JT%20Imports,%20necesito%20asesoría." class="btn btn-success mt-auto" target="_blank" rel="noopener noreferrer">Iniciar Chat</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
+    <div class="row pt-5">
+        <div class="col-lg-7 col-md-6">
+            <div class="row">
+                <div class="col-md-6 mb-5">
+                    <h3 class="text-primary mb-4">Visítanos</h3>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>San Nicolas de los Garza, N.L. México</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i>+52 81 2918 5691</p>
+                    <p><a href="mailto:ventas@jtimports.com.mx" class="text-white">
+                    <i class="fa fa-envelope mr-2"></i>ventas
+                </a></p>
+                    <div class="d-flex justify-content-start mt-4">
+                        <a class="btn btn-outline-light btn-social mr-2" href="https://facebook.com/jtimportsMX"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mr-2" href="https://www.tiktok.com/@jt.imports.mx"><i class="fab fa-tiktok"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://instagram.com/jt.imports.mx"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-5">
+                    <h3 class="text-primary mb-4">Atajos</h3>
+                    <div class="d-flex flex-column justify-content-start">
+                        <a class="text-white mb-2" href="index.html"><i class="fa fa-angle-right mr-2"></i>Inicio</a>
+                        <a class="text-white mb-2" href="blog.html"><i class="fa fa-angle-right mr-2"></i>Blog</a>
+                        <a class="text-white mb-2" href="politicas.html#privacidad"><i class="fa fa-angle-right mr-2"></i>Política de Privacidad</a>
+                        <a class="text-white mb-2" href="politicas.html#cookies"><i class="fa fa-angle-right mr-2"></i>Política de Cookies</a>
+                        <a class="text-white" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-5 col-md-6 mb-5">
+            <h3 class="text-primary mb-4">Newsletter</h3>
+            <p>Enterate primero de nuestras ofertas y promociones. Tambien noticias importantes.</p>
+            
+            <form id="newsletterForm">
+                <div class="w-100">
+                    <div class="input-group">
+                        <input type="email" id="newsletterEmail" class="form-control border-light" style="padding: 30px;" placeholder="Tu correo electrónico" required>
+                        <div class="input-group-append">
+                            <button class="btn btn-primary px-4" type="submit" id="newsletterSubmitButton">Suscribirse</button>
+                        </div>
+                    </div>
+                    <div id="newsletterSuccess" class="mt-2"></div>
+                </div>
+            </form>
+            </div>
+    </div>
+</div>
+<div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
+    <div class="row">
+        <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
+            <p class="m-0 text-white">&copy; <a href="#">JT Imports</a>. Derechos Reservados.
+            <a href="https://tecnomata.com">Tecnómata</a>
+            </p>
+        </div>
+        <div class="col-lg-6 text-center text-md-right">
+            <ul class="nav d-inline-flex">
+                <li class="nav-item">
+                    <a class="nav-link text-white py-0" href="ayuda.html#faqs">FAQs</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white py-0" href="ayuda.html#ayuda">Ayuda</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src="lib/easing/easing.min.js"></script>
+<script src="lib/waypoints/waypoints.min.js"></script>
+<script src="lib/counterup/counterup.min.js"></script>
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+<script src="mail/jqBootstrapValidation.min.js"></script>
+<script src="mail/contact.js"></script>
+<script src="mail/newsletter.js"></script>
+
+<script src="js/main.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 800,
+        once: true
+    });
+</script>
+</body>
+
+</html>
